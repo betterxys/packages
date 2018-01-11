@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
+        "raw": "/tmp/d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
-        "spec": "/tmp/d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
+        "rawSpec": "/tmp/d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
+        "spec": "/tmp/d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-1171020-13939-lav3vk.p7dn53ik9"
+      "/tmp/apm-install-dir-11805-13707-5mx8u2.96rqp30udi"
     ]
   ],
-  "_from": "../d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
-  "_id": "markdown-table-formatter@2.9.1",
+  "_from": "../d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
+  "_id": "markdown-table-formatter@2.9.2",
   "_inCache": true,
   "_location": "/markdown-table-formatter",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
+    "raw": "/tmp/d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
-    "spec": "/tmp/d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
+    "rawSpec": "/tmp/d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
+    "spec": "/tmp/d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
-  "_shasum": "309cafa5d6398659cd7c043235af05a1d16b2c9d",
+  "_resolved": "file:../d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
+  "_shasum": "d64faff299c5b1b49ada7c927c04381047c8ec1b",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-1171020-13939-w08zpa.ltw4revcxr/package.tgz",
-  "_where": "/tmp/apm-install-dir-1171020-13939-lav3vk.p7dn53ik9",
+  "_spec": "/tmp/d-11805-13707-u4lpee.ula86ez5mi/package.tgz",
+  "_where": "/tmp/apm-install-dir-11805-13707-5mx8u2.96rqp30udi",
   "bugs": {
     "url": "https://github.com/fcrespo82/atom-markdown-table-formatter/issues"
   },
@@ -57,5 +57,5 @@
     "type": "git",
     "url": "git+https://github.com/fcrespo82/atom-markdown-table-formatter.git"
   },
-  "version": "2.9.1"
+  "version": "2.9.2"
 }

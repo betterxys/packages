@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
+        "raw": "/tmp/d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
-        "spec": "/tmp/d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
+        "rawSpec": "/tmp/d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
+        "spec": "/tmp/d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-1171020-18344-1mconun.y4lhh3erk9"
+      "/tmp/apm-install-dir-11805-13735-11l7c2a.vtv5cdi"
     ]
   ],
-  "_from": "../d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
-  "_id": "pdf-view@0.61.0",
+  "_from": "../d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
+  "_id": "pdf-view@0.62.0",
   "_inCache": true,
   "_location": "/pdf-view",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
+    "raw": "/tmp/d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
-    "spec": "/tmp/d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
+    "rawSpec": "/tmp/d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
+    "spec": "/tmp/d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
-  "_shasum": "6eb255766c25eb02666db1d301efa17e918c8531",
+  "_resolved": "file:../d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
+  "_shasum": "8faf8a58cb73d4b82e21ee7ca13b8d8874a6604d",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-1171020-18344-14wx64h.3w8xsz6w29/package.tgz",
-  "_where": "/tmp/apm-install-dir-1171020-18344-1mconun.y4lhh3erk9",
+  "_spec": "/tmp/d-11805-13735-1ku9cau.3tgc4bo6r/package.tgz",
+  "_where": "/tmp/apm-install-dir-11805-13735-11l7c2a.vtv5cdi",
   "bugs": {
     "url": "https://github.com/izuzak/atom-pdf-view/issues"
   },
@@ -65,5 +65,5 @@
     "type": "git",
     "url": "git+https://github.com/izuzak/atom-pdf-view.git"
   },
-  "version": "0.61.0"
+  "version": "0.62.0"
 }
